@@ -11,6 +11,8 @@ I will need to add the weather description to the weather data that I’ve alrea
 
 ## Deliverables 
 
-*Deliverable 1: Retrieve Weather Data
-*Deliverable 2: Create a Customer Travel Destinations Map
-*Deliverable 3: Create a Travel Itinerary Map
+-Deliverable 1: Retrieve Weather Data
+
+-Deliverable 2: Create a Customer Travel Destinations Map
+
+-Deliverable 3: Create a Travel Itinerary Map
